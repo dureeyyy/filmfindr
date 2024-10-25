@@ -1,0 +1,11 @@
+#movie1:hover,
+#movie2:hover,
+#movie3:hover,
+#movie4:hover,
+#movie5:hover,
+#movie6:hover,
+#movie7:hover,
+#movie8:hover,
+#movie9:hover {
+    transform: scale(1.02);
+}
