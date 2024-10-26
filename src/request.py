@@ -1,4 +1,3 @@
-import httpx
 from _movie import Movie
 
 def send_request(url : str, apikey : str, query: str):
